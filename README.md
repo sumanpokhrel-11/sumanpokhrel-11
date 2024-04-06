@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently working on 100 days Python Bootcamp
+- 🔭 I’m currently working on Python Bootcamp
 - 🌱 I’m currently learning Python
 
 
