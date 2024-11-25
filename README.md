@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently working on Cine Marga which is started as a college project but we are working on to make it as a commercial project not just an academic project.
+- 🔭 I’m currently working on Cine Marga which is started as a college project but we are working on to make it as a commercial project not just an academic project. You can check the website : https://cinemarga.com
 - 🌱 I’m currently learning Python
 
 
