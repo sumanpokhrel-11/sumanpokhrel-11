@@ -15,7 +15,6 @@
 
 
 
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sumanpokhrel-11&show_icons=true&locale=en&layout=compact" alt="sumanpokhrel" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sumanpokhrel-11&show_icons=true&locale=en" alt="sumanpokhrel" /></p>
 
@@ -23,4 +22,5 @@
 
 - 📫 How to reach me: [suman-pokhrel.com.np](https://suman-pokhrel.com.np/)
 
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: committed to commit daily in 2025
+
