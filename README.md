@@ -3,7 +3,6 @@
 
 
 - 🔭 I’m currently working on Cine Marga which is started as a college project but we are working on to make it as a commercial project not just an academic project. You can check the website : https://cinemarga.com
-- 🌱 I’m currently learning Python
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumanpokhrel-11&label=Profile%20views&color=0e75b6&style=flat" alt="sumanpokhrel" /> </p>
