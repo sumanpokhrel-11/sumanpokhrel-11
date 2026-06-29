@@ -23,5 +23,6 @@
 
 - 📫 How to reach me: [suman-pokhrel.com.np](https://suman-pokhrel.com.np/)
 
-- ⚡ Fun fact: committed to commit daily in 2025
+- ~~⚡ Fun fact: committed to commit daily in 2025~~
+- Fun Fact: Committed to commit daily in 2026
 
