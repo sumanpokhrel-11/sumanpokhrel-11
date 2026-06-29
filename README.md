@@ -2,7 +2,9 @@
 
 
 
-- 🔭 I'm currently working as a Lead Developer as a freelancer for CGIOS.
+- I’m a Freelance Lead Developer & Researcher for CGIOS.
+- 🧠 Specializing in AI development & fine-tuning AI models.
+- 💻 Tech Stack: Python | C
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumanpokhrel-11&label=Profile%20views&color=0e75b6&style=flat" alt="sumanpokhrel" /> </p>
